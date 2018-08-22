@@ -1,13 +1,14 @@
-# Notes
+个人学习笔记
 Learning notes personally
+-----
 
-# The target:
-This repositories is personally to arrange systematic notes or gather some tips.Please tolerate so many mistakes because of my poor ability.
+# 目录:
+## 1 描述 Description
+### 1.1 使用 Instructions for use
+### 1.2 Markdown语法 Markdown grammar
 
+## 2 内容 Context
+### 2.1 微信小程序 WeiXinApp
 
-# The catalog is following:
-	#1 Description
-		#1.1 context
-		#1.2 instructions for use
-	#2 annex
-		#2.1 picture
+## 3 附录 Annex
+### 3.1 图片 Pictures
